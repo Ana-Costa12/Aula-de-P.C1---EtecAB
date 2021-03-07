@@ -28,9 +28,9 @@ namespace Aula_de_P.C1___EtecAB
             Console.WriteLine(" Together we'll be heroes\n Joining forces as one\n Strong as the steel we carry\n We rise like the sun");
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.WriteLine(" We must be strong (we must be strong)\n And we must be brave (we must be brave)\n We gotta find every bit of strength\n That we have and never let it go\n We must be strong");
+            Console.WriteLine(" We must be strong (we must be strong)\n And we must be brave (we must be brave)\n We're gonna reach inside\n Still together and fight\n And never let it go\n We must be strong");
             Console.ResetColor();
-            Console.WriteLine(" Cause we're warriors\n We are unstoppable\n Nothing's…");
+    
         }
     }
 }
